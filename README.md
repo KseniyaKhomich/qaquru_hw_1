@@ -1,3 +1,4 @@
 # qaquru_hw_1
 
-README.md
+Hi :wave:
+It is my first homework! :dizzy:
